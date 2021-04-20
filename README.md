@@ -25,3 +25,14 @@ How to get FedAuth cookie:
 5. Copy the text after 'Auth=' till the first semicolon(;).
 
 Enjoy!
+
+## Useage
+
+Python3 is required to run the script.
+
+```
+# Following command might be pip3 or python3 depends on system.
+pip install -r requirements.txt
+python sharepoint_gen_aria2_download_list.py
+# Follow the instuctions.
+```
