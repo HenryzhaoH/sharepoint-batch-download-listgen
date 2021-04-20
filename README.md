@@ -26,7 +26,7 @@ How to get FedAuth cookie:
 
 Enjoy!
 
-## Useage
+## Usage
 
 Python3 is required to run the script.
 
