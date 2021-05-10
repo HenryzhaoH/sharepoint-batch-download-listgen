@@ -30,7 +30,7 @@ import requests
 import xml.etree.ElementTree as ElementTree
 from urllib.parse import urlparse,quote,unquote
 
-ARIA2_INPUT_FILE = 'aira2-links.txt'
+ARIA2_INPUT_FILE = 'aria2-links.txt'
 DLPATH_PRIFIX = 'Downloads/'
 
 COOKIE_FEDAUTH = None
